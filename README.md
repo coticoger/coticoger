@@ -50,7 +50,7 @@
 ## 🛠 Tech Stack
 
 ### 🧠 AI / NLP
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
 - Transformers / LLM Fine-tuning
 - PEFT / LoRA
@@ -60,9 +60,6 @@
 - RDKit / Molecular Data Processing
 - SMILES 기반 분자 표현
 - AI 기반 화합물 분석
-
-### ⚙️ Dev & Infra
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
 
 ---
 
@@ -74,15 +71,9 @@
 - AI 모델 실험 및 결과 정리  
 - Jupyter Notebook 중심 연구 기록  
 
-### ⚡ peft-LoRA
-> HuggingFace PEFT / LoRA 기반 파인튜닝 실험  
-- 파라미터 효율적 학습 구조 이해  
-- NLP 및 확장 가능 구조 테스트  
-
 ### 🌐 Web & Portfolio
 - `coti00.github.io` – 개인 포트폴리오  
 - `Dongflix`, `Bike_Web` – 웹 프로젝트  
-- `linux_project` – C / 시스템 프로그래밍 연습  
 
 ---
 
