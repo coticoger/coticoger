@@ -9,7 +9,7 @@
   width=900&
   lines=NLP+%26+AI+Drug+Discovery+Developer;
   Language+Models+for+Biology+and+Chemistry;
-  From+Text+to+Therapeutics" />
+  From+Text+to+Therapeutics" /> Welcome to coticoger's github
 </p>
 
 <p align="center">
