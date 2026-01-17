@@ -34,19 +34,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coticoger&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=coticoger&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coticoger&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## Tech Stack
 
 ### AI / NLP
@@ -60,6 +47,13 @@
 - RDKit / Molecular Data Processing
 - SMILES 기반 분자 표현
 - AI 기반 화합물 분석
+
+### Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
+
+- React 기반 프론트엔드 개발  
+- Node.js 서버 개발  
+- FastAPI / Flask 기반 AI API 설계  
 
 ---
 
