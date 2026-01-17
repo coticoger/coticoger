@@ -20,11 +20,11 @@
 
 ## About Me
 
-- 🧠 **NLP & Bioinformactics Researcher**
+- **NLP & Bioinformactics Researcher**
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Biomedical NLP (PubMed / Scientific Text Mining)
 - Large Language Models for Biology
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coticoger&show_icons=true&theme=tokyonight" height="170"/>
@@ -47,16 +47,16 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🧠 AI / NLP
+### AI / NLP
 <img src="https://skillicons.dev/icons?i=python,pytorch" />
 
 - Transformers / LLM Fine-tuning
 - PEFT / LoRA
 - Representation Learning
 
-### 🧬 Drug Discovery & BioAI
+### Drug Discovery & BioAI
 - RDKit / Molecular Data Processing
 - SMILES 기반 분자 표현
 - AI 기반 화합물 분석
