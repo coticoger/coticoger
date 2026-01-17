@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="110"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
 </p>
 
 ---
@@ -62,27 +62,6 @@
 - AI 기반 화합물 분석
 
 ---
-
-## 🚀 Featured Projects
-
-### 🧬 AI_DRUG_DISCOVERY_MIDPROJECT
-> AI 기반 신약 개발 워크플로우 실험 프로젝트  
-- 분자 데이터 전처리 및 분석  
-- AI 모델 실험 및 결과 정리  
-- Jupyter Notebook 중심 연구 기록  
-
-### 🌐 Web & Portfolio
-- `coti00.github.io` – 개인 포트폴리오  
-- `Dongflix`, `Bike_Web` – 웹 프로젝트  
-
----
-
-## 🐍 Contribution Activity
-
-![snake gif](https://github.com/coticoger/coticoger/blob/output/github-contribution-grid-snake.svg)
-
----
-
 
 <p align="center">
   <i>LLMs for Science · AI for Drug Discovery</i>
