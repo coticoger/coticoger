@@ -1,17 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-  ?type=waving
-  &color=gradient
-  &height=170
-  &section=header
-  &text=Welcome%20to%20coticoger%27s%20GitHub
-  &fontSize=38
-  &fontAlignY=38
-  &desc=NLP%20%26%20AI%20Drug%20Discovery
-  &descSize=18
-  &descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Welcome%20to%20coticoger%27s%20GitHub&fontSize=38&fontAlignY=38&desc=NLP%20%26%20AI%20Drug%20Discovery&descSize=18&descAlignY=65" />
 </p>
-
 
 
 ---
