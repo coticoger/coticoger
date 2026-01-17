@@ -9,11 +9,12 @@
   width=900&
   lines=NLP+%26+AI+Drug+Discovery+Developer;
   Language+Models+for+Biology+and+Chemistry;
-  From+Text+to+Therapeutics" /> Welcome to coticoger's github
+  From+Text+to+Therapeutics" /> 
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
+  Welcome to coticoger's github
 </p>
 
 ---
