@@ -1,16 +1,113 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=26&
+  pause=1000&
+  color=58A6FF&
+  center=true&
+  vCenter=true&
+  width=900&
+  lines=NLP+%26+AI+Drug+Discovery+Developer;
+  Language+Models+for+Biology+and+Chemistry;
+  From+Text+to+Therapeutics" />
+</p>
 
-<!--
-**coticoger/coticoger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+- 🧠 **NLP & AI Research-Oriented Developer**
+- 🧬 관심 분야: **AI Drug Discovery · Biomedical NLP · LLM Fine-tuning**
+- 💊 분자 생성, 문헌 마이닝, PEFT/LoRA 기반 모델 실험
+- 🔬 연구 + 구현 중심 프로젝트를 GitHub에 정리
+
+---
+
+## 🔬 Research Interests
+
+- Biomedical NLP (PubMed / Scientific Text Mining)
+- Large Language Models for Biology
+- AI-driven Drug Discovery
+- Molecular Representation Learning (SMILES)
+- Multimodal Learning (Text + Molecule)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coticoger&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=coticoger&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coticoger&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 AI / NLP
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+- Transformers / LLM Fine-tuning
+- PEFT / LoRA
+- Representation Learning
+
+### 🧬 Drug Discovery & BioAI
+- RDKit / Molecular Data Processing
+- SMILES 기반 분자 표현
+- AI 기반 화합물 분석
+
+### ⚙️ Dev & Infra
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+
+---
+
+## 🚀 Featured Projects
+
+### 🧬 AI_DRUG_DISCOVERY_MIDPROJECT
+> AI 기반 신약 개발 워크플로우 실험 프로젝트  
+- 분자 데이터 전처리 및 분석  
+- AI 모델 실험 및 결과 정리  
+- Jupyter Notebook 중심 연구 기록  
+
+### ⚡ peft-LoRA
+> HuggingFace PEFT / LoRA 기반 파인튜닝 실험  
+- 파라미터 효율적 학습 구조 이해  
+- NLP 및 확장 가능 구조 테스트  
+
+### 🐍 PygameProject
+> Python 기반 인터랙티브 프로젝트  
+- Pygame 활용  
+- 로직 & 구조 연습  
+
+### 🌐 Web & Portfolio
+- `coti00.github.io` – 개인 포트폴리오  
+- `Dongflix`, `Bike_Web` – 웹 프로젝트  
+- `linux_project` – C / 시스템 프로그래밍 연습  
+
+---
+
+## 🐍 Contribution Activity
+
+![snake gif](https://github.com/coticoger/coticoger/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: your_email@example.com
+- 📝 Velog: https://velog.io/@coticoger
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+<p align="center">
+  <i>LLMs for Science · AI for Drug Discovery</i>
+</p>
