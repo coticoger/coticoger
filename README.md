@@ -13,9 +13,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
-  Welcome to coticoger's github
+  <img src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &color=gradient
+  &height=160
+  &section=header
+  &text=Welcome%20to%20coticoger's%20GitHub
+  &fontSize=38
+  &fontAlignY=40" />
 </p>
+
 
 ---
 
