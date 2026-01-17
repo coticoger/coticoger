@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Welcome%30Coticoger's%30Github!&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Welcome%20Coticoger's%20Github!&fontSize=30)
 
 ---
 
