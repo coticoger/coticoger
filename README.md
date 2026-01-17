@@ -1,27 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=26&
-  pause=1000&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=900&
-  lines=NLP+%26+AI+Drug+Discovery+Developer;
-  Language+Models+for+Biology+and+Chemistry;
-  From+Text+to+Therapeutics" /> 
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api
   ?type=waving
   &color=gradient
-  &height=160
+  &height=170
   &section=header
-  &text=Welcome%20to%20coticoger's%20GitHub
+  &text=Welcome%20to%20coticoger%27s%20GitHub
   &fontSize=38
-  &fontAlignY=40" />
+  &fontAlignY=38
+  &desc=NLP%20%26%20AI%20Drug%20Discovery
+  &descSize=18
+  &descAlignY=65" />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120"/>
+</p>
+
 
 
 ---
