@@ -18,12 +18,9 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🧠 **NLP & AI Research-Oriented Developer**
-- 🧬 관심 분야: **AI Drug Discovery · Biomedical NLP · LLM Fine-tuning**
-- 💊 분자 생성, 문헌 마이닝, PEFT/LoRA 기반 모델 실험
-- 🔬 연구 + 구현 중심 프로젝트를 GitHub에 정리
+- 🧠 **NLP & Bioinformactics Researcher**
 
 ---
 
@@ -82,11 +79,6 @@
 - 파라미터 효율적 학습 구조 이해  
 - NLP 및 확장 가능 구조 테스트  
 
-### 🐍 PygameProject
-> Python 기반 인터랙티브 프로젝트  
-- Pygame 활용  
-- 로직 & 구조 연습  
-
 ### 🌐 Web & Portfolio
 - `coti00.github.io` – 개인 포트폴리오  
 - `Dongflix`, `Bike_Web` – 웹 프로젝트  
@@ -100,13 +92,6 @@
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: your_email@example.com
-- 📝 Velog: https://velog.io/@coticoger
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 <p align="center">
   <i>LLMs for Science · AI for Drug Discovery</i>
