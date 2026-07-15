@@ -25,7 +25,7 @@
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
 - PyTorch
 - Transformers
@@ -64,13 +64,6 @@
 - Visual Studio Code
 
 ---
-
-## Current Research
-
-- Biological Instruction-Guided Molecule Generation
-- Transcriptome-Conditioned Molecular Design
-- Natural Language Interpretation of Gene Expression Profiles
-- Controllable Molecule Generation using Diffusion Language Models
 
 ---
 
