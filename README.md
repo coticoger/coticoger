@@ -5,7 +5,7 @@
 ## About Me
 
 - **AI & Bioinformatics Researcher**
-- Exploring the intersection of **Large Language Models, Biological Data, and Drug Discovery**
+- Interested in AI based Drug Discovery & Bio AI Agent
 
 
 ---
@@ -13,8 +13,7 @@
 ## Research Interests
 
 - Large Language Models for Biology
-- AI Agents for Biological Research
-- Transcriptomics and Gene Expression Analysis
+- AI Agents for Bio
 - AI-driven Drug Discovery
 - Generative Models for Molecular Design
 - Diffusion Language Models
@@ -31,19 +30,8 @@
 - Transformers
 - Large Language Model Fine-tuning
 - Parameter-Efficient Fine-Tuning
-- PEFT / LoRA
 - Representation Learning
 - Diffusion Models
-
-### Bioinformatics & Cheminformatics
-
-- Transcriptomic Data Analysis
-- Gene Expression Data Processing
-- Pathway and Gene-set Analysis
-- RDKit
-- Molecular Data Processing
-- SMILES / SELFIES-based Molecular Representation
-- AI-based Compound Generation and Analysis
 
 ### Web & Backend
 
